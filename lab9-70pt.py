@@ -12,3 +12,9 @@
 # Accept user input 
 # Calculate fahrenheit
 # Output answer
+
+print "lets turn celcius into fahrenheight!!!!! or die!!!!!"
+userinput = int(raw_input())
+fahrenheight = ((userinput * 9) / 5 + 32)
+print str(fahrenheight)
+
